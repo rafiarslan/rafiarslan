@@ -9,6 +9,7 @@ I am an aspiring game developer and programmer, always learning and improving my
   - [JumpBox](https://github.com/rafiarslan/JumpBox)
 - <b>Unreal Engine Projects</b>
   - [MarsSurvivor](https://github.com/rafiarslan/MarsSurvivor)
+  - [SimpleShooter](https://github.com/rafiarslan/SimpleShooter)
   - [ToonTanks](https://github.com/rafiarslan/ToonTanks)
 - <b>Miscellaneous Projects</b>
   - [WeirdPong](https://github.com/rafiarslan/WeirdPong)
